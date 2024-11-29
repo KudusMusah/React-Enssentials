@@ -10,6 +10,7 @@ export default function Header() {
     <header>
       <img src={reactImage} alt="Stylized atom" />
       <h1>React Essentials</h1>
+      <p>Core Concepts you will nedd for almost every app you are going to build</p>
     </header>
   );
 }
